@@ -1,0 +1,23 @@
+{
+  "name": "webtesting-i-challenge",
+  "version": "1.0.0",
+  "description": "\"This project demonstrate proficiency in writing unit tests and production code for MVP\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "test:watch": "jest --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jeffglanville/webtesting-i-challenge.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jeffglanville/webtesting-i-challenge/issues"
+  },
+  "homepage": "https://github.com/jeffglanville/webtesting-i-challenge#readme",
+  "devDependencies": {
+    "jest": "^26.4.2"
+  }
+}
